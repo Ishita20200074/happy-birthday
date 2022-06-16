@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+border-width: 10px;
+background-color: palevioletred;
+border-style: ridge;
+border-color: blueviolet;
+    
+}
+
+button
+{
+    border-radius: 5px;
+    background-color: pink;
+    
+}
+
